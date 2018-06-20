@@ -1,0 +1,10 @@
+<suite name="xyz" parallel="tests">
+
+	<test name="ffTest">
+
+		<classes>
+			<class name="com.tng.ohrm.OhrmAddEmployee" />
+		</classes>
+	</test>
+
+</suite>
