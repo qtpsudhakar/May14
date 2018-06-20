@@ -20,6 +20,8 @@ public class OhrmAddEmployee{
 		System.out.println("this is login method");
 		
 		System.out.println("this is a new change");
+		
+		System.out.println("this is another change");
 		driver.findElement(By.cssSelector("input#txtUsername")).sendKeys("admin");
 
 		driver.findElement(By.cssSelector("input[name=\"txtPassword\"]")).sendKeys("admin");
